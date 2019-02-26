@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'candb',
-        'USER': 'candatabase',
+        'USER': 'dbuser',
         'PASSWORD': '123',
         'HOST': 'localhost',
         'PORT': '',
